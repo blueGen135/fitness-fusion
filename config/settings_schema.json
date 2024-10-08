@@ -84,21 +84,6 @@
     ]
   },
   {
-    "name": "Header",
-    "settings":[
-      {
-        "type": "header",
-        "content": "Header"
-      },
-      {
-        "type": "checkbox",
-        "id": "isFixed",
-        "label": "Enable fixed header",
-        "default": false
-      }
-    ]
-  },
-  {
     "name": "Social Media",
     "settings": [
       {
@@ -158,23 +143,6 @@
         "id": "social_vimeo_link",
         "label": "Vimeo",
         "info": "https://vimeo.com/shopify"
-      }
-    ]
-  }
-  ,{
-    "name": "Page title settings",
-    "settings":[
-      {
-        "type": "color",
-        "id": "page_title_background",
-        "label": "Page title background",
-        "default": "#000"
-      },
-      {
-        "type": "color",
-        "id": "page_title_font_color",
-        "label": "Page title font color",
-        "default": "#fff"
       }
     ]
   }
